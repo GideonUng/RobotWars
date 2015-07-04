@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 26f3ee9aa6aa35a41bd89148decf0335
+timeCreated: 1436030958
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BrickTopRowBlue
+    100002: BrickTopRowRed.001
+    100004: BrickTopRowRed.002
+    100006: BrickTopRowRed.003
+    100008: BrickTopRowRed.004
+    100010: BrickTopRowRed.005
+    100012: BrickTopRowRed.006
+    100014: BrickTopRowRed.007
+    100016: BrickTopRowRed.008
+    100018: BrickTopRowRed.009
+    100020: BrickTopRowRed.010
+    100022: BrickTopRowYellow
+    100024: BrickTopRowYellow.001
+    100026: BrickTopRowYellow.002
+    100028: //RootNode
+    100030: Point
+    100032: Wall
+    400000: BrickTopRowBlue
+    400002: BrickTopRowRed.001
+    400004: BrickTopRowRed.002
+    400006: BrickTopRowRed.003
+    400008: BrickTopRowRed.004
+    400010: BrickTopRowRed.005
+    400012: BrickTopRowRed.006
+    400014: BrickTopRowRed.007
+    400016: BrickTopRowRed.008
+    400018: BrickTopRowRed.009
+    400020: BrickTopRowRed.010
+    400022: BrickTopRowYellow
+    400024: BrickTopRowYellow.001
+    400026: BrickTopRowYellow.002
+    400028: //RootNode
+    400030: Point
+    400032: Wall
+    2300000: BrickTopRowBlue
+    2300002: BrickTopRowRed.001
+    2300004: BrickTopRowRed.002
+    2300006: BrickTopRowRed.003
+    2300008: BrickTopRowRed.004
+    2300010: BrickTopRowRed.005
+    2300012: BrickTopRowRed.006
+    2300014: BrickTopRowRed.007
+    2300016: BrickTopRowRed.008
+    2300018: BrickTopRowRed.009
+    2300020: BrickTopRowRed.010
+    2300022: BrickTopRowYellow
+    2300024: BrickTopRowYellow.001
+    2300026: BrickTopRowYellow.002
+    2300028: Wall
+    3300000: BrickTopRowBlue
+    3300002: BrickTopRowRed.001
+    3300004: BrickTopRowRed.002
+    3300006: BrickTopRowRed.003
+    3300008: BrickTopRowRed.004
+    3300010: BrickTopRowRed.005
+    3300012: BrickTopRowRed.006
+    3300014: BrickTopRowRed.007
+    3300016: BrickTopRowRed.008
+    3300018: BrickTopRowRed.009
+    3300020: BrickTopRowRed.010
+    3300022: BrickTopRowYellow
+    3300024: BrickTopRowYellow.001
+    3300026: BrickTopRowYellow.002
+    3300028: Wall
+    4300000: BrickTopRowRed.005
+    4300002: BrickTopRowYellow
+    4300004: BrickTopRowRed.009
+    4300006: BrickTopRowYellow.002
+    4300008: BrickTopRowYellow.001
+    4300010: BrickTopRowRed.007
+    4300012: BrickTopRowBlue
+    4300014: BrickTopRowRed.006
+    4300016: BrickTopRowRed.004
+    4300018: BrickTopRowRed.003
+    4300020: BrickTopRowRed.002
+    4300022: BrickTopRowRed.001
+    4300024: BrickTopRowRed.010
+    4300026: BrickTopRowRed.008
+    4300028: Wall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
